@@ -1,0 +1,1 @@
+i 2yamlX,hrkubernetes/redis.yaml

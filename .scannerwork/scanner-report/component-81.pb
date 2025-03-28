@@ -1,0 +1,1 @@
+Q 2tsXhr frontend/src/types/post-type.tsx
